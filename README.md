@@ -17,8 +17,14 @@
   <li> Fazer Push e pull; </li>
   <li> O que é Branch.</li>
 </ul>
-
-<img src="file:///C:/Users/Lenovo/Documents/easy/img/Illustration-3-3.png">
+<br>
+<br>
+<br>
+<br>
+<h2> Site computador </h2>
+<img src="https://github.com/diullyevely/easy/blob/main/img/Captura%20de%20Tela%20(16).png?raw=true">
+<h2> Responsividade </h2>
+<img src="" alt="site-responsivo">
 
 
 

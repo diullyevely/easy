@@ -18,7 +18,7 @@
   <li> O que é Branch.</li>
 </ul>
 
-<img src="file:///C:/Users/Lenovo/Documents/easy/img/Illustration-3-3.png>
+<img src="file:///C:/Users/Lenovo/Documents/easy/img/Illustration-3-3.png">
 
 
 
